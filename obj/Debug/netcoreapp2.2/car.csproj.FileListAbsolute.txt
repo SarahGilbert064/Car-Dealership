@@ -1,0 +1,11 @@
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\bin\Debug\netcoreapp2.2\car.deps.json
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\bin\Debug\netcoreapp2.2\car.runtimeconfig.json
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\bin\Debug\netcoreapp2.2\car.runtimeconfig.dev.json
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\bin\Debug\netcoreapp2.2\car.dll
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\bin\Debug\netcoreapp2.2\car.pdb
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\obj\Debug\netcoreapp2.2\car.csprojAssemblyReference.cache
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\obj\Debug\netcoreapp2.2\car.csproj.CoreCompileInputs.cache
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\obj\Debug\netcoreapp2.2\car.AssemblyInfoInputs.cache
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\obj\Debug\netcoreapp2.2\car.AssemblyInfo.cs
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\obj\Debug\netcoreapp2.2\car.dll
+C:\Users\sarah\OneDrive\Desktop\epicodus\csharp-practice\obj\Debug\netcoreapp2.2\car.pdb
